@@ -1,7 +1,7 @@
 # 💫 About Me:
-16 yro 🎂<br>Software developer 💻<br>Innovation passionate 💛<br>Dominican-Costa Rican 🇩🇴/🇨🇷
+I'm 16 yro 🎂<br>Software developer 💻<br>Cloud engineering passionate ☁️💛<br>Dominican-Costa Rican 🇩🇴/🇨🇷
 
-
+In my profile you'll find some of my personal projects, hope you like it!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/y.uniel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yirber-yunier-ma%C3%B1on-893b95333?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BULOM%2F1q0T7Wp8X04m%2BLOoA%3D%3D) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YunielDev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yunielherrera2008@gmail.com) 
 
